@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tural
-- 👀 I’m interested in C++ and Destop programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on no one
+- 👀 I’m interested in C# and Destop programming
+- 🌱 I’m currently learning C#
 - 📫 You can reach me by my discord account or gmail...
 - Discord : BIG BOI#1550
 - Gmail : turalozel@gmail.com
