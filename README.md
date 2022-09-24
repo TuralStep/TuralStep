@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tural
-- 👀 I’m interested in C# and Destop programming
+- 👀 I’m interested in C# and Desktop programming
 - 🌱 I’m currently learning C#
 - 📫 You can reach me by my discord account or gmail...
 - Discord : BIG BOI#1550
