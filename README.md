@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tural
 - 👀 I’m interested in Desktop and Game development
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning React Native
 - 📫 You can reach me by my gmail...
 - Gmail : turalozel@gmail.com
 
